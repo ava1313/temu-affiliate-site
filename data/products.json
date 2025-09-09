@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Earbuds",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1580894732444-cd572f5e05af?fit=crop&w=400&q=80",
+    "affiliate_url": "https://www.temu.com/product/wireless-earbuds?aff=YOUR_AFFILIATE_CODE"
+  },
+  {
+    "id": 2,
+    "name": "Stainless Steel Water Bottle",
+    "category": "home",
+    "image": "https://images.unsplash.com/photo-1526405064843-4995c52a185c?fit=crop&w=400&q=80",
+    "affiliate_url": "https://www.temu.com/product/stainless-steel-water-bottle?aff=YOUR_AFFILIATE_CODE"
+  },
+  {
+    "id": 3,
+    "name": "LED Strip Lights",
+    "category": "home",
+    "image": "https://images.unsplash.com/photo-1601582581489-5c0127884bd2?fit=crop&w=400&q=80",
+    "affiliate_url": "https://www.temu.com/product/led-strip-lights?aff=YOUR_AFFILIATE_CODE"
+  },
+  {
+    "id": 4,
+    "name": "Reusable Silicone Food Bags",
+    "category": "kitchen",
+    "image": "https://images.unsplash.com/photo-1600546902173-efddd2bf92de?fit=crop&w=400&q=80",
+    "affiliate_url": "https://www.temu.com/product/reusable-silicone-food-bags?aff=YOUR_AFFILIATE_CODE"
+  },
+  {
+    "id": 5,
+    "name": "Smart Watch",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1517059224940-d4af9eec41e9?fit=crop&w=400&q=80",
+    "affiliate_url": "https://www.temu.com/product/smart-watch?aff=YOUR_AFFILIATE_CODE"
+  }
+]
